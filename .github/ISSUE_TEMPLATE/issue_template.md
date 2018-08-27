@@ -1,2 +1,0 @@
-Version - <br />
-API - <br />
